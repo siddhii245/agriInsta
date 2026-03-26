@@ -1,3 +1,4 @@
+<img width="916" height="912" alt="image" src="https://github.com/user-attachments/assets/bc4eca24-e1e5-447f-9e2b-88ff110b4728" />
 
 # AgriInsta - Extended (SQLite, password hashing, profile pics, likes/comments, pagination)
 
