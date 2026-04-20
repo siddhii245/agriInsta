@@ -1,6 +1,5 @@
-Flask
+Flask==2.3.3
 Flask-SQLAlchemy
 flask-bcrypt
 Werkzeug
 qrcode[pil]
-gunicorn
